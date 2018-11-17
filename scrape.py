@@ -734,6 +734,7 @@ def add_pretty_names(instances):
         'm3': 'M3 General Purpose',
         'm4': 'M4 General Purpose',
         'm5': 'M5 General Purpose',
+        'm5a': 'M5 General Purpose AMD',
         'm5d': 'M5 General Purpose',
         'p2': 'General Purpose GPU',
         'r3': 'R3 High-Memory',
